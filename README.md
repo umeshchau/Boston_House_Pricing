@@ -22,8 +22,20 @@ pip install -r requirements.txt
 
 `````
 For Cofiguration:
-
+````
 git config --global user.name "Umesh Chauhan"
 
 `````
 git config --global user.email "umeshuc.94@gmail.com"
+
+``````
+File add on GitHub:
+`````
+git add .
+
+``````
+git status
+
+``````
+Commit changes:
+git commit -m "updated" 
