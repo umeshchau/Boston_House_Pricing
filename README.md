@@ -39,3 +39,10 @@ git status
 ``````
 Commit changes:
 git commit -m "updated" 
+
+``````
+Push the changes to Git:
+`````
+git push origin main
+
+``````
